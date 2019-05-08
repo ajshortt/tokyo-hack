@@ -2,6 +2,7 @@
 	"name": "tokyo-hack",
 	"version": "0.1.0",
 	"publisher": "ajshortt",
+	"repository": "https://github.com/ajshortt/tokyo-hack",
 	"engines": {
 		"vscode": "*"
 	},
