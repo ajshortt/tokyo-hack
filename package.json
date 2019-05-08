@@ -1,0 +1,20 @@
+{
+	"name": "tokyo-hack",
+	"version": "0.1.0",
+	"publisher": "ajshortt",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Tokyo Hack",
+				"uiTheme": "vs-dark",
+				"path": "./tokyo-hack.tmTheme"
+			}
+		]
+	},
+	"devDependencies": {
+		"tslint": "^5.11.0"
+	}
+}
