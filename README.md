@@ -1,5 +1,5 @@
 # Tokyo Hack Theme - VS Code theme
-![Tokyo Hack logo](https://github.com/ajshortt/tokyo-hack/raw/master/./hero.jpg)
+![Tokyo Hack logo](https://github.com/ajshortt/tokyo-hack/raw/master/./main-hero.jpg)
 
 Nostalgic synthwave inspired code editor theme. Inspired by the neon lights of tokyo, futuristic technology
 and the “synthwave” culture. This is a beta theme, seeking
