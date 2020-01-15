@@ -15,6 +15,6 @@ First, you'll need to [install the theme via VS Marketplace](https://marketplace
 As stated, this is a fun theme which is in beta seeking community contribution. If have any improvments, [please read the contribution guide](https://github.com/ajshortt/tokyo-hack/blob/master/CONTRIBUTING.md) to improve the hack!
 
 ## Credit
-A huge thanks to @robb0wen for starting the trend of bringing the synthwave aesthetic to
+A huge thanks to [@robb0wen](https://github.com/robb0wen) for starting the trend of bringing the synthwave aesthetic to
 editor themes and influencing a lot of this project too. His theme is seriously good and you should check it out too!
 [Find it here](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
