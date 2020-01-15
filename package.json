@@ -1,21 +1,37 @@
 {
 	"name": "tokyo-hack",
-	"version": "0.1.0",
+	"displayName": "Tokyo Hack",
+	"description": "Nostalgic synthwave inspired code editor theme",
+	"version": "0.3.1",
+	"author": "Alex Shortt",
 	"publisher": "ajshortt",
-	"repository": "https://github.com/ajshortt/tokyo-hack",
-	"engines": {
-		"vscode": "*"
+	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ajshortt/tokyo-hack"
 	},
+	"engines": {
+		"vscode": "^1.33.0"
+	},
+	"keywords": [
+		"tokyo",
+		"hacker"
+	],
+	"categories": [
+		"Themes"
+	],
 	"contributes": {
 		"themes": [
 			{
 				"label": "Tokyo Hack",
 				"uiTheme": "vs-dark",
-				"path": "./tokyo-hack.tmTheme"
+				"path": "./themes/tokyo-hack-color-theme.json"
 			}
 		]
 	},
-	"devDependencies": {
-		"tslint": "^5.11.0"
+	"__metadata": {
+		"id": "502f71da-d7e3-4cad-84e9-9cb39d8bc252",
+		"publisherId": "89a871f4-f52b-49f1-8bc3-b7465e8216dc",
+		"publisherDisplayName": "Alex Shortt"
 	}
 }
